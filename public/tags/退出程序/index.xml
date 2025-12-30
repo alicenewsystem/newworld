@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>我的知识树</title>
-        <link>http://localhost:1313/</link>
-        <description>Recent content on 我的知识树</description>
+        <title>退出程序 on 我的知识树</title>
+        <link>http://localhost:1313/tags/%E9%80%80%E5%87%BA%E7%A8%8B%E5%BA%8F/</link>
+        <description>Recent content in 退出程序 on 我的知识树</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <lastBuildDate>Tue, 30 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 30 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/%E9%80%80%E5%87%BA%E7%A8%8B%E5%BA%8F/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>娱乐退出策略量表</title>
         <link>http://localhost:1313/posts/%E5%A8%B1%E4%B9%90%E9%80%80%E5%87%BA%E7%AD%96%E7%95%A5%E9%87%8F%E8%A1%A8/</link>
         <pubDate>Tue, 30 Dec 2025 00:00:00 +0000</pubDate>
@@ -21,23 +21,6 @@
 完成存档仪式后的感受 （是感到平静、完成，还是依然焦虑？） 
 退出后的第一件事 （你自然而然地去做了什么？） 
 &lt;/code&gt;&lt;/pre&gt;
-</description>
-        </item>
-        <item>
-        <title>动力是行动的副产品</title>
-        <link>http://localhost:1313/posts/%E5%8A%A8%E5%8A%9B%E6%98%AF%E8%A1%8C%E5%8A%A8%E7%9A%84%E5%89%AF%E4%BA%A7%E5%93%81/</link>
-        <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/posts/%E5%8A%A8%E5%8A%9B%E6%98%AF%E8%A1%8C%E5%8A%A8%E7%9A%84%E5%89%AF%E4%BA%A7%E5%93%81/</guid>
-        <description>&lt;h2 id=&#34;核心理念&#34;&gt;核心理念
-&lt;/h2&gt;&lt;p&gt;我们常常等待动力来临才开始行动，但真正的逻辑是相反的：
-&lt;strong&gt;动力并不是行动的前提，而是开始行动后自然产生的结果。&lt;/strong&gt;&lt;/p&gt;
-&lt;h2 id=&#34;如何应用&#34;&gt;如何应用
-&lt;/h2&gt;&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;微启动&lt;/strong&gt;：承诺只做5分钟。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;建立仪式感&lt;/strong&gt;：在固定时间、地点开始。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;记录反馈&lt;/strong&gt;：完成行动后，记录下积极的感受。&lt;/li&gt;
-&lt;/ol&gt;
 </description>
         </item>
         
